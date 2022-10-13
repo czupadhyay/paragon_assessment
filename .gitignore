@@ -1,0 +1,8 @@
+*.py[cod]
+env/
+.~*
+.idea/
+.vim/
+.vscode/
+.mypy_cache/
+*.ds_store/

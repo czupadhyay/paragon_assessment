@@ -1,0 +1,6 @@
+2022-10-13 09:05:08,213 [INFO] Weather Data insertion Start
+2022-10-13 09:05:53,999 [INFO] Weather Data inserted Successfully
+2022-10-13 09:05:54,002 [INFO] Time taken: 45.78685	 Number of rows inserted: 1729957
+2022-10-13 09:06:02,806 [INFO] Weather Data insertion Start
+2022-10-13 09:06:02,822 [INFO] Yield Data inserted Successfully
+2022-10-13 09:06:02,823 [INFO] Time taken: 0.015452	 Number of rows inserted: 30
